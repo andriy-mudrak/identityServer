@@ -1,0 +1,16 @@
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\bin\Debug\netcoreapp2.2\IdentityServerTest.deps.json
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\bin\Debug\netcoreapp2.2\IdentityServerTest.runtimeconfig.json
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\bin\Debug\netcoreapp2.2\IdentityServerTest.runtimeconfig.dev.json
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\bin\Debug\netcoreapp2.2\IdentityServerTest.dll
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\obj\Debug\netcoreapp2.2\IdentityServerTest.csprojAssemblyReference.cache
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\obj\Debug\netcoreapp2.2\IdentityServerTest.RazorAssemblyInfo.cache
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\obj\Debug\netcoreapp2.2\IdentityServerTest.RazorAssemblyInfo.cs
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\obj\Debug\netcoreapp2.2\IdentityServerTest.AssemblyInfoInputs.cache
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\obj\Debug\netcoreapp2.2\IdentityServerTest.AssemblyInfo.cs
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\obj\Debug\netcoreapp2.2\IdentityServerTest.RazorTargetAssemblyInfo.cache
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\bin\Debug\netcoreapp2.2\IdentityServerTest.pdb
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\obj\Debug\netcoreapp2.2\IdentityServerTest.dll
+C:\Users\binariks\source\repos\IdentityServerTest\IdentityServerTest\obj\Debug\netcoreapp2.2\IdentityServerTest.pdb
